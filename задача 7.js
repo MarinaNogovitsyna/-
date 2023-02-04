@@ -7,3 +7,4 @@ function camelize(str){
 
 
 console.log(camelize(str));
+console.log('---')
